@@ -1,13 +1,1 @@
-eureka:
-#  instance:
-#    prefer-ip-address: true
-#    instance-id: 111.230.195.169:8811
-  client:
-    serviceUrl:
-      defaultZone: http://127.0.0.1:8800/eureka/
-server:
-  port: 8810
-spring:
-  application:
-    name: service-s0
 aaa: aaa
